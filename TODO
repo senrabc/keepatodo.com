@@ -27,7 +27,14 @@ TODO: [A] (senrabc@gmail.com) 20170426 Add AUTHORS file
 TODO: [A] (senrabc@gmail.com) 20170426 Make hyperlinks actual arefs
 TODO: [A] (senrabc@gmail.com) 20170426 Give props to ESR and RMS
 TODO: [A] (senrabc@gmail.com) 20170426 Discuss team usage
-TODO: [A] (senrabc@gmail.com) 2017
-TODO: [A] (senrabc@gmail.com) 2017
+
+TODO: [A] (senrabc@gmail.com) 20170503 @story So not having a good deploy 
+  script is blocking me form making rapid updates
+
+TODO: [A] (senrabc@gmail.com) 20170503 @story need to have a curl example at 
+  the very top of the page that goes to RAW github and lets you download the
+  sample TODO. ex. curl -o TODO raw.github.com/senrabc/etc....
+
+
 TODO: [A] (senrabc@gmail.com) 2017
 TODO: [A] (senrabc@gmail.com) 2017
