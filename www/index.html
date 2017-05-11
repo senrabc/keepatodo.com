@@ -1,63 +1,97 @@
 
 <html>
-<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title></title>
-</head>
-<body>
-<p>Keep A TODO&nbsp;LIST: (There is always lots of stuff TODO, so just do it ;)</p>
+<link href="txtstyle.css" rel="stylesheet" type="text/css" />
 
-<pre id="figlet-art">
-  _  __                    _______ ____  _____   ____                      
- | |/ /                 /\|__   __/ __ \|  __ \ / __ \                     
- | &#39; / ___  ___ _ __   /  \  | | | |  | | |  | | |  | | ___ ___  _ __ ___  
- |  &lt; / _ \/ _ \ &#39;_ \ / /\ \ | | | |  | | |  | | |  | |/ __/ _ \| &#39;_ ` _ \ 
- | . \  __/  __/ |_) / ____ \| | | |__| | |__| | |__| | (__ (_) | | | | | |
- |_|\_\___|\___| .__/_/    \_\_|  \____/|_____/ \____(_)___\___/|_| |_| |_|
-               | |                                                         
-               |_|  </pre>
+<body><pre>
 
-<p></p>
+Keep A TODO LIST: (There is always lots of stuff TODO, so just do it ;)         
+                                                                                
+Lazy? copy this file ($ wget -O TODO.txt keepatodo.com/TODO.txt )             
+                                                                                
+  _  __                    _______ ____  _____   ____                           
+ | |/ /                 /\|__   __/ __ \|  __ \ / __ \                          
+ | ' / ___  ___ _ __   /  \  | | | |  | | |  | | |  | | ___ ___  _ __ ___       
+ |  < / _ \/ _ \ '_ \ / /\ \ | | | |  | | |  | | |  | |/ __/ _ \| '_ ` _ \      
+ | . \  __/  __/ |_) / ____ \| | | |__| | |__| | |__| | (__ (_) | | | | | |     
+ |_|\_\___|\___| .__/_/    \_\_|  \____/|_____/ \____(_)___\___/|_| |_| |_|     
+               | |                                                              
+               |_|                                                              
+                                                                                
+                                                                                
+TODO: [A](senrabc@gmail.com)20170501 Get raw data from drop box                    
+TODO: [A](senrabc@gmail.com)20170501 Add data to sqlite db                         
+                                                                                   
+TODO: [A](senrabc@gmail.com)20170501 @story The idea will be to run the raw        
+  nacc data through the ALGDX algo. and then output something like:                
+                                                                                   
+  subjectid, algdx, nacc_dx                                                        
+  -------------------------                                                        
+  100-101, Pre-MCI, MCI                                                            
+  100-102, MCI, Dementia                                                           
+                                                                                   
+  This is the information that will satisfy (from Grant):                           
+  Aim 1: To subclassify older adults into well-defined cognitive status            
+  entities, using a diagnostic algorithm which takes into account a combination 
+  of amnestic and non-amnestic neuropsychological tests scores and the assigned 
+  clinical dementia rating.                                                        
+                                                                                   
+  Aim 1 hypothesis: Older adults will be classified into well-defined cognitive 
+  status categories after review and categorization using a combination of         
+  neuropsychological tests scores and CDR rating.                                  
+                                                                                   
+                                                                                   
+TODO: [A](senrabc@gmail.com)20170509 @task Convert the truth table into a CSV   
+  that can be parsed and conveted into an ASCII table. Do this in VIM              
+                                                                                   
+TODO: [A](senrabc@gmail.com)20170510 @task Document that the max for a CDR sum  
+  of boxes score can go as high as 18. This needs to be reflected in Truth Table
+  ref: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3409562/                       
+                                                                                   
+TODO: [A](senrabc@gmail.com)20170501 @story In the grant we said we would turn  
+  DxSter into the enhanced Algorithmic Diagnosis (eAlgDx). The new required        
+  inputs woudl be CDR sum of boxes for the NPDX a map is needed to map nacc        
+  UDS values to the ALgDx. A truth table was created in the grant for this.        
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+TODO: [A](senrabc@gmail.com)20170501 finsh turning truth table into ascii table 
+  working truthc table here:                                                       
 
-<p><strong>Why?</strong></p>
 
-<p>The longer a code base exists the more likely it is that all external artifacts associated with it will disappear. I can&#39;t tell you how many wiki articles I&#39;ve authored or edited over the years only to see them somehow get relegated and lost since the were not with the code. It gets to be disheartening. So a radical idea occurred to me. Why not just go back to keeping artifacts with the code. &nbsp;Before you fire up your blow torch to flame me, I&#39;m not talking about abandoning all&nbsp;external systems. I&#39;m talking about folks who may be in the terminal/vim/emacs all day long anyway going back to a tried and true method of tracking things that need to get done. Your milage may very. &nbsp;</p>
+*******************************************************************************
+Why?
+*******************************************************************************
+The longer a code base exists the more likely it is that all external artifacts
+associated with it will disappear. I can't tell you how many wiki articles I've
+authored or edited over the years only to see them somehow get relegated and 
+lost since the were not with the code. It gets to be disheartening. So a 
+radical idea occurred to me. Why not just go back to keeping artifacts with the 
+code. Before you fire up your blow torch to flame me, I'm not talking about 
+abandoning all external systems. I'm talking about folks who may be in the 
+terminal/vim/emacs all day long anyway going back to a tried and true method of
+tracking things that need to get done. Your mileage may very.
 
-<p><strong>Advantage Human (bad tennis pun)?</strong></p>
+*******************************************************************************
+Advantage for Humans
+*******************************************************************************
+Advantages, here are a few for using a text based TODO:
 
-<p>The advantages&nbsp;to using a text file based TOD are:</p>
+	1. Your TODO items will get versioned right along with your code.
+	2. Your TODO list will always be human readable, ala Unix Philosophy.
+	3. Your text file will pretty much always be cross platform and future
+          proof ;)
+	4. I edited this with VIM over an ssh session. No GUI needed. Fast and
+          quick.
 
-<p>&nbsp; &nbsp; 1. Your TODO items will&nbsp;get versioned right along with your code.<br />
-&nbsp;&nbsp; &nbsp;2. Your TODO list will always be human readable, ala Unix Philosophy.<br />
-&nbsp; &nbsp; 3. Your text file will pretty much always be cross platform and future proof ;)<br />
-&nbsp;<br />
-&nbsp;</p>
+*******************************************************************************
+Comments:
+*******************************************************************************
 
-<p><strong>Examples:</strong></p>
+Comments or suggestions welcome. Email me at senrabc@gmail.com.
 
-<p>Completed task logged on 3/1 and completed on 3/2</p>
+fork me and make a pull request. https://github.com/senrabc/keepatodo.com
 
-<p>&nbsp; &nbsp; TODO: [x] (senrabc@gmail.com)2011-03-02 2011-03-01 Review Tim&#39;s pull request +TodoTxtTouch @github</p>
+</pre>
+</body></html>
 
-<p>High priority new task</p>
-
-<p>&nbsp; &nbsp; TODO: [A] (senrabc@gmail.com) 0000-01-01 2017-04-20 This is the text of my TODO item. +HCVProject @gitrepo(location, etc..)</p>
-
-<p>Medium priority new task</p>
-
-<p>&nbsp; &nbsp; TODO: [B] (senrabc@gmail.com) 0000-01-01 2017-04-20 This is the text of my TODO item. +context @phonecall</p>
-
-<p>Low priority task</p>
-
-<p>&nbsp; &nbsp; TODO: [C] (senrabc@gmail.com) 0000-01-01 2017-04-20 This is the text of my TODO item. +context @webserver</p>
-
-<p>TODO</p>
-
-<p></p>
-
-<p><strong>References on Keeping TODO Files:</strong></p>
-
-<p>http://www.vim.org/scripts/script.php?script_id=5262<br />
-https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format<br />
-http://todotxt.com/</p>
-</body>
-</html>
