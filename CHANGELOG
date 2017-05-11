@@ -1,0 +1,17 @@
+## [0.0.1] - 2017-05-11
+### Summary
+ * Initial Release of 80 charachter wide keepatodo.com with quick wget to get
+  a quick copy of a working TODO.txt to start from
+
+### Changed
+ * update files to have index be only 80 char wide and formatted as txt 
+     (Christopher Barnes)
+ * fix figlet ascii logo top row alignment (Christopher Barnes)
+ * fix figlet ascii logo (Christopher Barnes)
+ * make readme look like index.html (Christopher Barnes)
+ * add todo items for deploy and examples (Christopher Barnes)
+ * add TODO items for future work (Christopher)
+ * initial version of keepatodo. (Christopher P. Barnes)
+ * initial version of keepatodo. (Christopher P. Barnes)
+ * testing repo with README edit (Christopher P. Barnes)
+ * Initial commit (Christopher P. Barnes)
