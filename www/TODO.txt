@@ -1,0 +1,53 @@
+Keep A TODO LIST: (There is always lots of stuff TODO, so just do it ;)
+
+Lazy? copy this file ($ wget -O TODO.txt keepatodo.com/TODO.txt )
+
+  _  __                    _______ ____  _____   ____
+ | |/ /                 /\|__   __/ __ \|  __ \ / __ \
+ | ' / ___  ___ _ __   /  \  | | | |  | | |  | | |  | | ___ ___  _ __ ___
+ |  < / _ \/ _ \ '_ \ / /\ \ | | | |  | | |  | | |  | |/ __/ _ \| '_ ` _ \
+ | . \  __/  __/ |_) / ____ \| | | |__| | |__| | |__| | (__ (_) | | | | | |
+ |_|\_\___|\___| .__/_/    \_\_|  \____/|_____/ \____(_)___\___/|_| |_| |_|
+               | |
+               |_|
+
+
+TODO: [A](senrabc@gmail.com)20170501 Get raw data from drop box
+TODO: [A](senrabc@gmail.com)20170501 Add data to sqlite db
+
+TODO: [A](senrabc@gmail.com)20170501 @story The idea will be to run the raw
+  nacc data through the ALGDX algo. and then output something like:
+
+  subjectid, algdx, nacc_dx
+  -------------------------
+  100-101, Pre-MCI, MCI
+  100-102, MCI, Dementia
+
+  This is the information that will satisfy (from Grant):
+  Aim 1: To subclassify older adults into well-defined cognitive status
+  entities, using a diagnostic algorithm which takes into account a combination
+  of amnestic and non-amnestic neuropsychological tests scores and the assigned
+  clinical dementia rating.
+
+  Aim 1 hypothesis: Older adults will be classified into well-defined cognitive
+  status categories after review and categorization using a combination of
+  neuropsychological tests scores and CDR rating.
+
+
+TODO: [A](senrabc@gmail.com)20170509 @task Convert the truth table into a CSV
+  that can be parsed and conveted into an ASCII table. Do this in VIM
+
+TODO: [A](senrabc@gmail.com)20170510 @task Document that the max for a CDR sum
+  of boxes score can go as high as 18. This needs to be reflected in Truth Table
+  ref: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3409562/
+
+TODO: [A](senrabc@gmail.com)20170501 @story In the grant we said we would turn
+  DxSter into the enhanced Algorithmic Diagnosis (eAlgDx). The new required
+  inputs woudl be CDR sum of boxes for the NPDX a map is needed to map nacc
+  UDS values to the ALgDx. A truth table was created in the grant for this.
+
+
+
+
+TODO: [A](senrabc@gmail.com)20170501 finsh turning truth table into ascii table
+  working truthc table here:
