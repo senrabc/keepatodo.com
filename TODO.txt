@@ -1,22 +1,24 @@
-Example:
-Completed task logged on 3/1 and completed on 3/2
-TODO: [x] (senrabc@gmail.com)2011-03-02 2011-03-01 Review Tim's pull request +TodoTxtTouch @github
+Keep A TODO LIST: (There is always lots of stuff TODO, so just do it ;)         
+                                                                                
+Lazy? copy this file ($ wget -O TODO.txt keepatodo.com/TODO.txt )             
+                                                                                
+  _  __                    _______ ____  _____   ____                           
+ | |/ /                 /\|__   __/ __ \|  __ \ / __ \                          
+ | ' / ___  ___ _ __   /  \  | | | |  | | |  | | |  | | ___ ___  _ __ ___       
+ |  < / _ \/ _ \ '_ \ / /\ \ | | | |  | | |  | | |  | |/ __/ _ \| '_ ` _ \      
+ | . \  __/  __/ |_) / ____ \| | | |__| | |__| | |__| | (__ (_) | | | | | |     
+ |_|\_\___|\___| .__/_/    \_\_|  \____/|_____/ \____(_)___\___/|_| |_| |_|     
+               | |                                                              
+               |_|                                                              
+                                                                                
 
-High priority new task
-TODO: [A] (senrabc@gmail.com) 0000-01-01 2017-04-20 This is the text of my TODO item. +HCVProject @gitrepo(location, etc..)
+Examples:                                                                                
+TODO: [A](senrabc@gmail.com)20170501 Get raw data from drop box                    
+TODO: [A](senrabc@gmail.com)20170501 Add data to sqlite db 
 
-Medium priority new task
-TODO: [B] (senrabc@gmail.com) 0000-01-01 2017-04-20 This is the text of my TODO item. +context @phonecall
-
-Low priority task
-TODO: [C] (senrabc@gmail.com) 0000-01-01 2017-04-20 This is the text of my TODO item. +context @webserver
-
-TODO LIST: (Lots of stuff TODO, so just do it ;)
 
 TODO: [A] (senrabc@gmail.com) 20170426 Translate index.html into spanish
 TODO: [A] (senrabc@gmail.com) 20170426 Write essay about the history of TODO lists
-TODO: [A] (senrabc@gmail.com) 20170426 Create an example of a simple TODO item
-TODO: [A] (senrabc@gmail.com) 20170426 Make better layout of main index.html 
 TODO: [A] (senrabc@gmail.com) 20170426 Cite examples from FSF, GNU and other older projects 
 TODO: [A] (senrabc@gmail.com) 20170426 Write essay on org mode in emacs
 TODO: [A] (senrabc@gmail.com) 20170426 Give props to keepachangelog
@@ -29,12 +31,20 @@ TODO: [A] (senrabc@gmail.com) 20170426 Give props to ESR and RMS
 TODO: [A] (senrabc@gmail.com) 20170426 Discuss team usage
 
 TODO: [A] (senrabc@gmail.com) 20170503 @story So not having a good deploy 
-  script is blocking me form making rapid updates
+  script is blocking me from making rapid updates
 
-TODO: [A] (senrabc@gmail.com) 20170503 @story need to have a curl example at 
+
+TODO: [A] (senrabc@gmail.com) 2017
+TODO: [A] (senrabc@gmail.com) 2017
+TODO: [A] (senrabc@gmail.com) 2017
+TODO: [A] (senrabc@gmail.com) 2017
+
+********************************************************************************
+Completed Items:
+********************************************************************************
+TODO: [x] (senrabc@gmail.com) C20170426 X20170511 Create an example of a simple TODO item
+TODO: [x] (senrabc@gmail.com) C20170426 X20170511 Make better layout of main index.html 
+TODO: [x] (senrabc@gmail.com) C20170503 X20170511 @story need to have a curl example at 
   the very top of the page that goes to RAW github and lets you download the
   sample TODO. ex. curl -o TODO raw.github.com/senrabc/etc....
 
-
-TODO: [A] (senrabc@gmail.com) 2017
-TODO: [A] (senrabc@gmail.com) 2017
