@@ -29,7 +29,8 @@ TODO: [A] (senrabc@gmail.com) 20170426 Add AUTHORS file
 TODO: [A] (senrabc@gmail.com) 20170426 Make hyperlinks actual arefs
 TODO: [A] (senrabc@gmail.com) 20170426 Give props to ESR and RMS
 TODO: [A] (senrabc@gmail.com) 20170426 Discuss team usage
-
+TODO: [A] (senrabc@gmail.com) 20170426 create RELEASE file or Essay on how to release with git flow
+TODO: [A] (senrabc@gmail.com) 20170426 create a deploy.sh script using .env to scp files to keepatodo.com
 TODO: [A] (senrabc@gmail.com) 20170503 @story So not having a good deploy 
   script is blocking me from making rapid updates
 
