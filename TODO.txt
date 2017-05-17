@@ -44,7 +44,9 @@ TODO: [A] (senrabc@gmail.com) 20170426 create a deploy.sh script using .env to
   scp files to keepatodo.com
 TODO: [A] (senrabc@gmail.com) 20170503 @story So not having a good deploy 
   script is blocking me from making rapid updates
-
+TODO: [B] (devmattm@gmail.com) 20170517 Merge devmattm pull request
+TODO: [B] (devmattm@gmail.com) 20170517 update http server with new index and
+  todo.org file
 
 TODO: [A] (senrabc@gmail.com) 2017
 TODO: [A] (senrabc@gmail.com) 2017
