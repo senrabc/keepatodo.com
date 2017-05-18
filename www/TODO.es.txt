@@ -15,43 +15,43 @@ Mantenga TODO UNA LISTA: (Siempre hay muchas cosas TODO, así que simplemente ha
 
 TODO: [A] (senrabc@gmail.com) 20170501 Obtener datos sin procesar desde el buzón
 TODO: [A] (senrabc@gmail.com) 20170501 Agregar datos a sqlite db
-                                                                                   
+
 TODO: [A] (senrabc@gmail.com) 20170501 @story La idea será ejecutar el crudo
-  Nacc a través del algoritmo ALGDX. Y luego salida algo como:
-                                                                                   
-  Subjetid, algdx, nacc_dx
-  -------------------------
-  100 - 101, Pre - MCI, MCI
-  100-102, MCI, Demencia
-                                                                                   
-  Esta es la información que satisfará (de Grant):
-  Objetivo 1: Subclasificar a los adultos mayores en un estado cognitivo bien 
+  Nacc a través del algoritmo ALGDX. Y luego salida algo como:
+
+  Subjetid, algdx, nacc_dx
+  -------------------------
+  100 - 101, Pre - MCI, MCI
+  100-102, MCI, Demencia
+
+  Esta es la información que satisfará (de Grant):
+  Objetivo 1: Subclasificar a los adultos mayores en un estado cognitivo bien 
   definido Entidades, utilizando un algoritmo de diagnóstico que tenga en cuenta 
   una De los resultados de las pruebas neuropsicológicas amnésticas y no 
   amnésicas y los Demencia clínica.
-                                                                                   
-  Objetivo 1 hipótesis: Los adultos mayores se clasificarán en grupos cognitivos 
+  
+  Objetivo 1 hipótesis: Los adultos mayores se clasificarán en grupos cognitivos 
   bien definidos Categorías de estatus después de la revisión y categorización 
   usando una Resultados de las pruebas neuropsicológicas y calificación CDR.
-                                                                                   
-                                                                                   
+
+
 TODO: [A] (senrabc@gmail.com) 20170509 @task Convertir la tabla de verdad en una 
   CSV Que se puede analizar y transportar en una tabla ASCII. Haga esto en VIM
-                                                                                   
+
 TODO: [A] (senrabc@gmail.com) 20170510 @task Documento que el máximo de una suma 
   CDR De las cajas de puntuación puede llegar tan alto como 18. Esto debe 
   reflejarse en la tabla de la verdad 
   Ref: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3409562/
-                                                                                   
+
 TODO: [A] (senrabc@gmail.com) 20170501 @story En la subvención dijimos que 
   volveríamos DxSter en el diagnóstico algorítmico mejorado (eAlgDx). El nuevo 
   requisito Los insumos serán CDR suma de cajas para el NPDX un mapa es 
   necesario para mapear nacc UDS a la ALgDx. Una mesa de verdad fue creada en la 
   subvención para esto.
-                                                                                   
-                                                                                   
-                                                                                   
-                                                                                   
+
+
+
+
 TODO: [A] (senrabc@gmail.com) 20170501 finsh que da vuelta a la tabla de la 
   verdad en la tabla del ascii Trabajando la tabla de truthc aquí: 
 
@@ -80,9 +80,9 @@ Ventajas, aquí están algunas para usar un texto basado TODO:
 1. Tus artículos de TODO recibirán versionado derecho junto con tu código.
 2. Su lista de TODO siempre será legible por los humanos, ala Filosofía de Unix.
 3. Su archivo de texto será casi siempre plataforma cruzada y futuro
-          Prueba
+     Prueba
 4. He editado esto con VIM en una sesión ssh. No necesita GUI. Rápido y
-          rápido.
+     rápido.
 
 *******************************************************************************
 Comentarios:
