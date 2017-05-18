@@ -1,0 +1,68 @@
+Keep A TODO LIST: (There is always lots of stuff TODO, so just do it ;)         
+                                                                                
+Lazy? copy this file ($ wget -O TODO.txt keepatodo.com/TODO.txt )             
+                                                                                
+  _  __                    _______ ____  _____   ____                           
+ | |/ /                 /\|__   __/ __ \|  __ \ / __ \                          
+ | ' / ___  ___ _ __   /  \  | | | |  | | |  | | |  | | ___ ___  _ __ ___       
+ |  < / _ \/ _ \ '_ \ / /\ \ | | | |  | | |  | | |  | |/ __/ _ \| '_ ` _ \      
+ | . \  __/  __/ |_) / ____ \| | | |__| | |__| | |__| | (__ (_) | | | | | |     
+ |_|\_\___|\___| .__/_/    \_\_|  \____/|_____/ \____(_)___\___/|_| |_| |_|     
+               | |                                                              
+               |_|                                                              
+                                                                                
+
+Examples:                                                                                
+TODO: [A](senrabc@gmail.com)20170501 Get raw data from drop box                    
+TODO: [A](senrabc@gmail.com)20170501 Add data to sqlite db 
+
+
+TODO: [A] (senrabc@gmail.com) 20170517 @task Finish Makefile, Makefile.ini and 
+  settings.ini examples and deploy them
+
+TODO: [A] (senrabc@gmail.com) 20170426 Translate index.html into spanish
+TODO: [A] (senrabc@gmail.com) 20170426 Write essay about the history of TODO 
+  lists
+TODO: [A] (senrabc@gmail.com) 20170426 Cite examples from FSF, GNU and other 
+  older projects 
+
+TODO: [A] (senrabc@gmail.com) 20170426 Write essay on org mode in emacs
+TODO: [A] (senrabc@gmail.com) 20170426 Give props to keepachangelog
+TODO: [A] (senrabc@gmail.com) 20170426 Give props to textfiles.com
+TODO: [A] (senrabc@gmail.com) 20170426 Write essay on unix phil amd human 
+  readable text files
+
+TODO: [A] (senrabc@gmail.com) 20170426 Lookinto using a NEWS file
+TODO: [A] (senrabc@gmail.com) 20170426 Add AUTHORS file
+TODO: [A] (senrabc@gmail.com) 20170426 Make hyperlinks actual arefs
+TODO: [A] (senrabc@gmail.com) 20170426 Give props to ESR and RMS
+TODO: [A] (senrabc@gmail.com) 20170426 Discuss team usage
+TODO: [A] (senrabc@gmail.com) 20170426 create RELEASE file or Essay on how to 
+  release with git flow
+
+TODO: [A] (senrabc@gmail.com) 20170426 create a deploy.sh script using .env to 
+  scp files to keepatodo.com
+TODO: [A] (senrabc@gmail.com) 20170503 @story So not having a good deploy 
+  script is blocking me from making rapid updates
+TODO: [B] (devmattm@gmail.com) 20170517 Merge devmattm pull request
+TODO: [B] (devmattm@gmail.com) 20170517 update http server with new index and
+  todo.org file
+
+TODO: [A] (senrabc@gmail.com) 2017
+TODO: [A] (senrabc@gmail.com) 2017
+TODO: [A] (senrabc@gmail.com) 2017
+TODO: [A] (senrabc@gmail.com) 2017
+
+*******************************************************************************
+Completed Items:
+*******************************************************************************
+TODO: [x] (senrabc@gmail.com) C20170426 X20170511 Create an example of a simple
+  TODO item
+
+TODO: [x] (senrabc@gmail.com) C20170426 X20170511 Make better layout of main 
+  index.html 
+
+TODO: [x] (senrabc@gmail.com) C20170503 X20170511 @story need to have a curl 
+  example at the very top of the page that goes to RAW github and lets you 
+  download the sample TODO. ex. curl -o TODO raw.github.com/senrabc/etc....
+
