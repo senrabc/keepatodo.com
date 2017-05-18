@@ -1,3 +1,27 @@
+## [0.2.0] - 2017-05-17
+### Summary
+ * This release adds emacs org mode example and spanish translation example
+
+### Changed
+ * fix added special chars from using google translate that messed up spacing in text file. Still needs work and native speaker translation
+ * Merge pull request #1 from DevMattM/todo_org_mode
+ * Adding TODO items for example make files
+ * start creating example Makefile and coordinating files to use as future templates for starting new makefiles. In the future the goal woudl be to just wget these and start from the examples
+ * start stubbing out makefile to use to encapsulate deployment functions
+ * update TODO with items for merging todo.org
+ * Merge branch 'develop' into todo_org_mode
+ * remove todo for merge conflict
+ * rename TODO to TODO.txt
+ * Update TODO with new tasks required for new pull request
+ * Update index.html to include the new TODO.org file
+ * Create new TODO.org file example
+ * add todo items for deploying anf releasing
+ * bring this repos TODO.txt file in line with the example file
+ * add tranlations line and link to spanish translation of TODO.txt example file
+ * the first spanish translation of the TODO.txt example file
+ * Merge branch 'release/0.1.0' into develop
+
+
 ## [0.0.1] - 2017-05-11
 ### Summary
  * Initial Release of 80 charachter wide keepatodo.com with quick wget to get
