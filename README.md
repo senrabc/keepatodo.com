@@ -21,7 +21,7 @@ The longer a code base exists the more likely it is that all external artifacts 
 
 Advantage Human (bad tennis pun)?
 
-The advantages to using a text file based TOD are:
+The advantages to using a text file based TODO are:
 
     1. Your TODO items will get versioned right along with your code.
     2. Your TODO list will always be human readable, ala Unix Philosophy.
